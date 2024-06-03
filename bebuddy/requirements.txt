@@ -151,8 +151,6 @@ notebook==6.5.4
 notebook_shim==0.2.2
 numexpr==2.8.5
 numpy==1.26.2
-# Editable install with no version control (numpy-clustering-with-graph-convolution-PROGRAMMING-PYTOOLS==1.0.1)
--e /Users/calik/Downloads/devskiller-code-G2AA-DDRX-64E4-S3F
 O365==2.0.31
 oauthlib==3.2.2
 office365==0.3.15
