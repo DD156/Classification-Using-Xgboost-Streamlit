@@ -60,4 +60,4 @@ To install and run this project, follow these steps:
 To run the Streamlit app, use the following command:
 
 ```bash
-streamlit run bullying_gui.py
+streamlit run streamlit_app.py
